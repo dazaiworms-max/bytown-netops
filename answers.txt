@@ -1,0 +1,5 @@
+Q1: dfbd4380
+Q2: 3
+Q3: git fetch. This let's me see what my teammate has done.
+Q4: No. Adding secrets.env to .gitignore stops git from tracking all the following files you make but not existing ones.
+Q5: Locally, use git branch -d old-fix and on GitHub, use git push origin --delete old-fix.
